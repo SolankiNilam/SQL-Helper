@@ -77,12 +77,7 @@ Result fed back to Gemini → formats final answer, shown in chat
 ```
    Opens automatically at `http://localhost:8501`.
  
-## Usage examples
- 
-- "Show me the top 5 customers by total order value"
-- "Why is this query slow: `SELECT * FROM orders WHERE status='pending'`"
-- "Get all orders from the last 30 days, grouped by status"
-- "Fix this query: `SELCT * FORM users`"
+
 ## Configuration
  
 | Setting | Location | Default | Notes |
